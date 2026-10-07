@@ -54,8 +54,8 @@
     padding-top: 40px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 100px;
+    justify-content: space-between;
+    
     
 }
 
@@ -64,6 +64,8 @@
     font-family: var(--sacramento);
     font-size: var(--footer-font-size);
     font-weight: 300;
+    padding: 5px 20px;
+    
     
 
 
