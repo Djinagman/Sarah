@@ -16,6 +16,10 @@
 
 
 
+/* font family page final */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CA+Guides&display=swap');
+
+
 
 @import url("Style/global.css");
 @import url("Style/page-principale.css");
@@ -37,6 +41,7 @@
     --sarpanch: "Sarpanch", sans-serif;
     --simoneta: "Simonetta", serif;
     
+    --playwrite: "Playwrite CA Guides", cursive;
 
 
     --primary-color: rgb(132, 119, 149, 1);
