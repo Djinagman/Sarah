@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+
+    height: 100%;
+}
+
+
+a,
+a:visited,
+a:hover,
+a:focus {
+
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}

@@ -1,0 +1,64 @@
+#deuxieme{
+
+    background-color: var(--back-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main_img {
+
+    padding: 10px 10px;
+
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+   
+
+    
+}
+.contain {
+
+    padding: 40px 2px;
+}
+
+#deuxieme .main_img div img {
+    
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    
+    
+
+    
+} 
+
+
+
+.desc {
+
+    padding: 5px 5px;
+    background-color: var(--secondary-color);
+    height: 180px;
+}
+
+.desc h3{
+
+    padding: 0px;
+    font-family: var(--lea);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.desc p{
+
+    font-family: var(--satisfy);
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+
+

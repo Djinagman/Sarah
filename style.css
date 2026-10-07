@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Spirax&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+
+/*Font-family page2*/
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+
+
+
+/*Font-family page3*/
+@import url('https://fonts.googleapis.com/css2?family=Sirin+Stencil&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarpanch:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
+
+
+
+
+@import url("Style/global.css");
+@import url("Style/page-principale.css");
+@import url("Style/page.css");
+@import url("Style/page2.css");
+
+
+
+
+:root {
+
+    --spirax: "Spirax", system-ui;
+    --satisfy: "Satisfy", cursive;
+    --sacramento: "Sacramento", cursive;
+
+    --lea: "Fleur de leah", cursive;
+    --sirin: "Sirin Stencil", sans-serif;
+    --sarpanch: "Sarpanch", sans-serif;
+    --simoneta: "Simonetta", serif;
+    
+
+
+    --primary-color: rgb(132, 119, 149, 1);
+    --secondary-color: #FFF;
+    --back-color: rgb(115, 115, 115, 1);
+
+
+    --head-font-size: 50px;
+    --main-font-size: 64px;
+    --footer-font-size: 60px;
+
+
+
+}

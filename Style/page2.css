@@ -1,0 +1,137 @@
+#twazyem {
+    
+    background-color: var(--back-color);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#twazyem nav h2{
+
+    text-align: center;
+    font-family: var(--sirin);
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+
+    color: whitesmoke;
+}
+
+#twazyem nav {
+
+   padding: 20px 3px;
+  
+}
+
+#twazyem main {
+    
+    padding: 4px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+   
+    
+}
+
+#twazyem .sel select {
+
+
+    width: 20px;
+    height: 50px;
+}
+
+
+
+
+#twazyem main div img {
+
+    width: 60px;
+    height: auto;
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+ 
+ 
+}
+
+.img_h_cal {
+
+
+    display: flex;
+}
+
+.jmn {
+
+    display: flex;
+    gap: 10px;
+    
+}
+
+#twazyem p {
+
+    font-size: 12px;
+    text-align: center;
+    font-family: var(--sarpanch);
+    font-weight: 100;
+}
+
+#twazyem select{
+
+    font-family: var(--sarpanch);
+    font-weight: 200;
+    font-style: normal;
+
+
+}
+
+
+.h {
+
+    display: flex;
+    gap: 10px;
+}
+
+.jmn select{
+
+    height: 100px;
+    width: 35px;
+    
+    
+}
+
+.h select {
+
+    height: 40px;
+    
+
+}
+
+#twazyem button {
+
+
+    padding: 8px 25px;
+    border-radius: 80px;
+    border: none;
+    
+    
+
+}
+
+#twazyem .bt {
+
+    margin-top: 20px;
+
+    display: flex;
+    justify-content: center;
+}
+
+#twazyem .bt button {
+
+    font-family: var(--simoneta);
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+
+}

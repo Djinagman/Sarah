@@ -1,0 +1,89 @@
+#principal{
+
+    background-color: var(--primary-color);
+}
+
+#principal main{
+
+    text-align: center;
+}
+
+
+
+#principal nav{
+
+    padding: 40px;
+  
+
+}
+#principal nav div{
+
+    background: var(--secondary-color);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+   
+    border-radius: 20%;
+    
+}
+
+#principal nav div h2{
+
+    font-family: var(--spirax);
+    font-size: 80px;
+    font-weight: 100;
+
+}
+
+
+
+
+
+
+#principal main p{
+
+    font-family: var(--satisfy);
+    font-size: var(--main-font-size);
+    color: var(--secondary-color)
+}
+
+#principal footer{
+
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    
+}
+
+#principal .bt h4{
+
+    font-family: var(--sacramento);
+    font-size: var(--footer-font-size);
+    font-weight: 300;
+    
+
+
+}
+
+#bt1.disparet {
+
+    color: transparent;
+ 
+}
+
+
+
+@media (max-width: 400px) {
+    
+    #principal nav div h2{
+
+     font-family: var(--spirax);
+     font-size: 40px;
+     font-weight: 100;
+
+    }
+}
